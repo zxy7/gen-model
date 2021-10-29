@@ -1,0 +1,19 @@
+{
+  "name": "gen-model",
+  "version": "1.0.0",
+  "description": "初始化model数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "gen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxy7/gen-model.git"
+  },
+  "author": "zxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxy7/gen-model/issues"
+  },
+  "homepage": "https://github.com/zxy7/gen-model#readme"
+}
